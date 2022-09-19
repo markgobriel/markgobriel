@@ -4,7 +4,7 @@
 <h3>ABOUT ME</h3>
 
 - 🏫 I am a grade 12 International Baccalaureate student
-- 💻 I work with HTML, CSS & JavaScript 
+- 💻 I work with **HTML, CSS & JavaScript** 
 - 🌱 I’m currently learning **Python**
 - 📫 Reach me at **markgobriel@gmail.com**
 
