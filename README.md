@@ -3,7 +3,7 @@
 
 <h3>ABOUT ME</h3>
 
-- 🏫 I am a first-year CS student @ University of Toronto
+- 🏫 I am a first-year CS student at the University of Toronto
 - 💻 I work with **HTML, CSS & JavaScript** 
 - 🌱 I’m currently learning **Python**
 - 📫 Reach me at **markgobriel@gmail.com**
