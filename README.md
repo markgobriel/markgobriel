@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Mark Gobriel</h1>
-<h3 align="center">a passionate developer from egypt🇪🇬</h3>
+<h3 align="center">aspiring front-end developer</h3>
 
 <h3>ABOUT ME</h3>
 
