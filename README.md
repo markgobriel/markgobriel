@@ -3,9 +3,9 @@
 
 <h3>ABOUT ME</h3>
 
-- 🏫 I am a first-year CS student at the University of Toronto
-- 💻 I am proficient in **HTML, CSS & JavaScript** 
-- 🌱 I’m currently learning **Python**
+- 🏫 Second-year Computer Science Major at the University of Toronto, with Minors in Mathematical Sciences and Business.
+- 💻 I am proficient in **PYTHON, JAVA, HTML, CSS, and JavaScript** 
+- 🌱 I’m currently learning **GOLang, Kotlin, Flutter**
 - 📫 Reach me at **markgobriel@gmail.com**
 
 <h3 align="left">LANGUAGES</h3>
