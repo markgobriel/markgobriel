@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Mark Gobriel</h1>
-<h3 align="center">aspiring full-stack developer</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 
 <h3>ABOUT ME</h3>
 
