@@ -2,8 +2,8 @@
 
 <h2>👨🏻‍💻 Relevant Skills</h2>
 
-<b>Languages</b>: Java, Python, Kotlin, HTML & CSS, JavaScript, C, TypeScript, Swift, Liquid <br>
-<b>Software/Frameworks</b>: Spring, Hibernate, Pygame, NumPy, Bootstrap, React, Node.js, CameraX, SQLite, TensorFlow <br>
+<b>Languages</b>: Java, Python, C, HTML & CSS, JavaScript, Liquid <br>
+<b>Software/Frameworks</b>: Spring, Hibernate, Pygame, NumPy, Bootstrap, React, CameraX, SQLite <br>
 <b>Tools</b>: Git, GitHub, Shopify, Maven, Javadoc, JUnit, VS Code, IntelliJ, PyCharm, Android Studio, Figma <be>
 
 <!-- <h2>💼 Software Development Projects</h2>
