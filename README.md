@@ -4,7 +4,9 @@
 
 <b>Languages</b>: Java, Python, C, HTML & CSS, JavaScript, Liquid <br>
 <b>Software/Frameworks</b>: Spring, Hibernate, Pygame, NumPy, Bootstrap, React, CameraX, SQLite <br>
-<b>Tools</b>: Git, GitHub, Shopify, Maven, Javadoc, JUnit, VS Code, IntelliJ, PyCharm, Android Studio, Figma <be>
+<b>Tools</b>: Git, GitHub, Shopify, Maven, Javadoc, JUnit, VS Code, IntelliJ, PyCharm, Android Studio, Figma <br>
+<b>Relevant Coursework</b>: Software Design, Software Tools & Systems Programming, Data Structures & Algorithms, Discrete
+Mathematics, Linear Algebra, Statistics & Probability, Multivariable Calculus
 
 <!-- <h2>💼 Software Development Projects</h2>
 
