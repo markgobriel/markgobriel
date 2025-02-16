@@ -3,46 +3,44 @@
 <h2>👨🏻‍💻 Relevant Skills</h2>
 
 <b>Languages</b>: Java, Python, C, HTML & CSS, JavaScript, Liquid <br>
-<b>Software/Frameworks</b>: Spring, Hibernate, Pygame, NumPy, Bootstrap, React, CameraX, SQLite <br>
-<b>Tools</b>: Git, GitHub, Shopify, Maven, Javadoc, JUnit, VS Code, IntelliJ, PyCharm, Android Studio, Figma <br>
+<b>Software/Frameworks</b>: React, Vite, Tailwind CSS, Node.js, FastAPI, Spring, Pygame, Numpy, CameraX <br>
+<b>Tools</b>: Git/GitHub, Shopify, Javadoc, JUnit, Figma, Axios, PostgreSQL, SQLite <br>
 <b>Relevant Coursework</b>: Software Design, Software Tools & Systems Programming, Data Structures & Algorithms, Discrete
 Mathematics, Linear Algebra, Statistics & Probability, Multivariable Calculus
 
-<!-- <h2>💼 Software Development Projects</h2>
+
+<h2>🎯 Career Goal</h2>
+<p>
+  As a full‑stack developer, I am fully equipped to work on both back‑end and front‑end projects. However, I am particularly passionate about front‑end development because it allows me to showcase my creativity and keen eye for aesthetics.
+</p>
+
+<h2>💼 Software Development Projects</h2>
 
 - <b>Front-End Development</b>
-  - [Experience Egypt](https://github.com/markgobriel/experience-egypt)
-  - [Egypt Cities Slider](https://github.com/markgobriel/city-slider)
-  - [Productivity Time Manager](https://github.com/markgobriel/school-timemanagement)
-- <b>Java</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - 🏘️ [Dormigo](https://github.com/nathancmaniego/deerhacks-iv) – A one‑stop platform that aggregates rental listings from Zillow and Toronto Rentals and features roommate matching. Built using React, Vite, and Tailwind CSS, submitted to the University of Toronto Mississauga's fourth edition of the DeerHacks Hackathon.
+  - 👕 [Motherland](https://wearmotherland.com/) – My clothing brand project where I extensively customized the Shopify Dawn theme using JavaScript, Liquid, and CSS to enhance user experience and create a more visually pleasing storefront. I also implemented custom email automations with Shopify APIs and Liquid to target abandoned carts and boost customer retention.
+  - 🇪🇬 [Experience Egypt](https://github.com/markgobriel/experience-egypt) – A fully responsive and dynamic tourism website for Egypt developed from scratch with HTML, CSS, and JavaScript. The site showcases Egypt's cultural and historical landmarks with a modern, user‑friendly design. (Ongoing project.)
+  - 📂 [Personal Portfolio Website](https://github.com/markgobriel/markgobriel.github.io) – A personal portfolio website built using HTML and CSS to effectively showcase my skills, projects, and professional experience.
 
--->
+- <b>Java</b>
+  - 🧩 [Othello Game](https://github.com/markgobriel/othello-game-207) – A Java-based implementation of the classic Othello game featuring multiple modes (human vs. human, human vs. computer, and human vs. random). Demonstrates object-oriented programming, game logic, and user interaction.
+  - 🎨 [Paint App Clone](https://github.com/markgobriel/paint-clone-207) – A Java-based clone of a paint application that integrates with the Ollama API to generate drawings from natural language prompts. This project showcases API integration and graphical user interface development.
+
+- <b>Python</b>
+  - 🗄️ [Treemap Visualizer](https://github.com/markgobriel/treemap-visualizer) – A Python application built with Pygame that visualizes hierarchical data structures as dynamic treemaps with real-time updates and interactive features.
+  - 📞 [MewbileTech Visualizer](https://github.com/markgobriel/mewbile-tech-csc148) – An application developed in Python using Pygame to visualize historical customer call data (geolocated in Toronto) on a real map. The tool enables filtering of calls and texts by customer and generates detailed billing reports for analysis.
+  - 🚕 [Ride Sharing Simulation](https://github.com/markgobriel/ride-sharing-csc148) – A simulation application built with Python that models a ridesharing service. It simulates the interactions of riders, drivers, a dispatcher, and a monitor on a city grid, allowing exploration of scheduling and matching algorithms in a controlled, virtual environment.
+ 
+- <b>Kotlin</b>
+  - 🤳🏼 [Kutenda](https://github.com/markgobriel/kutenda-app) – A Kotlin-based fraud prevention application for coach bus drivers, designed to incentivize stops at the Kutenda Centre in Cameroon. It uses CameraX for real‑time license plate recognition and a pre‑registered SQLite database to track driver history and rewards, preventing fraud.
+ 
+  
+*Note: Some of these repositories may be private. Feel free to reach out to me if you'd like to learn more about any of these projects.*
 
 <h2> 🤳 Connect with me</h2>
 
-[<img align="left" alt="Mark Gobriel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mark Gobriel | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Mark Gobriel | LinkedIn" width="32px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
+[<img align="left" alt="Mark Gobriel | Email" width="32px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" />][email]
 
 [email]: mailto:markgobriel@gmail.com
 [linkedin]: https://linkedin.com/in/markgobriel
-
-<!-- <h3>ABOUT ME</h3>
-
-- 🏫 Year 2 Computer Science Major at the University of Toronto, with Minors in Mathematical Sciences and Business.
-- 💻 I am proficient in **Python, Java, HTML, CSS, and JavaScript** 
-- 🌱 I’m currently learning **Go, Kotlin, Flutter**
-- 📫 Reach me at **markgobriel@gmail.com** 
-
--->
