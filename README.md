@@ -17,6 +17,7 @@ Mathematics, Linear Algebra, Statistics & Probability, Multivariable Calculus
 <h2>💼 Software Development Projects</h2>
 
 - <b>Front-End Development</b>
+  - 💻 [Terminal-Inspired Portfolio](https://github.com/markgobriel/terminal-portfolio) – A unique CLI-style personal portfolio application powered by React and Vite. Visitors can type commands such as `ls projects`, `nano resume.pdf`, and `open linkedin` to explore various sections, open links, and learn about my professional background in a playful, interactive way.
   - 🏘️ [Dormigo](https://github.com/nathancmaniego/deerhacks-iv) – A one‑stop platform that aggregates rental listings from Zillow and Toronto Rentals and features roommate matching. Built using React, Vite, and Tailwind CSS, submitted to the University of Toronto Mississauga's fourth edition of the DeerHacks Hackathon.
   - 👕 [Motherland](https://wearmotherland.com/) – My clothing brand project where I extensively customized the Shopify Dawn theme using JavaScript, Liquid, and CSS to enhance user experience and create a more visually pleasing storefront. I also implemented custom email automations with Shopify APIs and Liquid to target abandoned carts and boost customer retention.
   - 🇪🇬 [Experience Egypt](https://github.com/markgobriel/experience-egypt) – A fully responsive and dynamic tourism website for Egypt developed from scratch with HTML, CSS, and JavaScript. The site showcases Egypt's cultural and historical landmarks with a modern, user‑friendly design. (Ongoing project.)
