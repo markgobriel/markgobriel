@@ -2,7 +2,7 @@
 
 <h2>👨🏻‍💻 Relevant Skills</h2>
 
-<b>Languages</b>: Java, Python, C, HTML & CSS, JavaScript, Liquid <br>
+<b>Languages</b>: Java, Python, C, HTML & CSS, JavaScript, Liquid, Kotlin <br>
 <b>Software/Frameworks</b>: React, Vite, Tailwind CSS, Node.js, FastAPI, Spring, Pygame, Numpy, CameraX <br>
 <b>Tools</b>: Git/GitHub, Shopify, Javadoc, JUnit, Figma, Axios, PostgreSQL, SQLite <br>
 <b>Relevant Coursework</b>: Software Design, Software Tools & Systems Programming, Data Structures & Algorithms, Discrete
