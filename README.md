@@ -3,8 +3,8 @@
 <h2>👨🏻‍💻 Relevant Skills</h2>
 
 <b>Languages</b>: Java, Python, C, HTML & CSS, JavaScript, Liquid, Kotlin <br>
-<b>Software/Frameworks</b>: React, Vite, Tailwind CSS, Node.js, FastAPI, Spring, Pygame, Numpy, CameraX <br>
-<b>Tools</b>: Git/GitHub, Shopify, Javadoc, JUnit, Figma, Axios, PostgreSQL, SQLite <br>
+<b>Software/Frameworks</b>: React, Vite, Tailwind, Node.js, Pygame, Numpy, Matplotlib <br>
+<b>Tools</b>: Git/GitHub, Shopify, Javadoc, JUnit, Figma, Axios, PostgreSQL <br>
 <b>Relevant Coursework</b>: Software Design, Software Tools & Systems Programming, Data Structures & Algorithms, Discrete
 Mathematics, Linear Algebra, Statistics & Probability, Multivariable Calculus
 
