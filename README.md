@@ -2,7 +2,7 @@
 
 <h2>👨🏻‍💻 relevant skills</h2>
 
-<b>languages:</b> java, python, html, css, javascript, liquid<br>
+<b>languages:</b> java, python, html, css, javascript<br>
 <b>frameworks:</b> react, vite, node.js, express.js, rest apis, pygame<br>
 <b>tools:</b> git, github, shopify, prisma, sqlite, postgresql, axios, figma, junit, javadoc<br>
 <b>practices:</b> sdlc, agile/scrum, sprint planning, user stories, code reviews, unit testing, documentation<br>
