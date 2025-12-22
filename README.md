@@ -1,44 +1,45 @@
-<h1>hi👋🏻, i'm Mark Gobriel! <br/><a href="https://www.linkedin.com/in/markgobriel/">cs student at the University of Toronto</a></h1>
+<h1>hi👋🏻, i'm mark gobriel! <br/><a href="https://www.linkedin.com/in/markgobriel/">computer science @ university of toronto</a></h1>
 
-<h2>👨🏻‍💻 my (relevant) skills</h2>
+<h2>👨🏻‍💻 relevant skills</h2>
 
-**Languages:** Java, Python, HTML & CSS, JavaScript, Liquid<br>
-**Software/Frameworks:** React, Vite, Node.js, Express.js, REST APIs, Pygame<br>
-**Tools:** Git, GitHub, Shopify, Prisma, SQLite, PostgreSQL, Axios, Figma, JUnit, Javadoc<br>
-**Practices:** SDLC, Agile/Scrum, Sprint Planning, User Stories, Code Reviews, Unit Testing, Documentation<br>
+<b>languages:</b> java, python, html, css, javascript, liquid<br>
+<b>frameworks:</b> react, vite, node.js, express.js, rest apis, pygame<br>
+<b>tools:</b> git, github, shopify, prisma, sqlite, postgresql, axios, figma, junit, javadoc<br>
+<b>practices:</b> sdlc, agile/scrum, sprint planning, user stories, code reviews, unit testing, documentation<br>
 
-<h2>🎯 what i'm trying to be</h2>
+<h2>🎯 what i'm about</h2>
 <p>
-  as a full‑stack developer, i am fully equipped to work on both back‑end and front‑end projects. unlike most programmers however, i <i>enjoy</i> UX/UI design and am passionate about front‑end development because it allows me to showcase my creativity and keen eye for aesthetics.
+  i like taking ideas from 0 to shipped. i build the reliable stuff underneath and the polished interface on top. 
+  i’m a full-stack developer, but i genuinely enjoy ux/ui and front-end work because it lets me make things feel clean, smooth, and intentional.
 </p>
 
 <h2>💼 some projects i've worked on</h2>
 
-- <b>the full-stack</b>
-  - 🏆 [Rewardly](https://github.com/markgobriel/rewardly) – Full-stack loyalty rewards web app that lets users earn, track, and redeem points through a clean, responsive React + Vite frontend. It uses a Node/Express REST API with Prisma and SQLite for persistent data storage.
-  - 🏘️ [Dormigo](https://github.com/nathancmaniego/deerhacks-iv) – A one‑stop platform that aggregates rental listings from Zillow and Toronto Rentals and features roommate matching. Built using a React frontend and a FastAPI + PostgreSQL backend, submitted to the University of Toronto Mississauga's fourth edition of the DeerHacks Hackathon.
+- <b>full-stack</b>
+  - 🏆 <a href="https://github.com/markgobriel/rewardly">rewardly</a> - loyalty rewards web app where users earn, track, and redeem points. react + vite frontend, node/express api, prisma + sqlite.
+  - 🏘️ <a href="https://github.com/nathancmaniego/deerhacks-iv">dormigo</a> - rental listings + roommate matching platform (deerhacks). react frontend, fastapi + postgresql backend.
 
-- <b>the front end</b>
-  - 👕 [Motherland](https://wearmotherland.com/) – My clothing brand project where I extensively customized the Shopify Dawn theme using JavaScript, Liquid, and CSS to enhance user experience and create a more visually pleasing storefront. I also implemented custom email automations with Shopify APIs and Liquid to target abandoned carts and boost customer retention.
-  - 🇪🇬 [Experience Egypt](https://github.com/markgobriel/experience-egypt) – A fully responsive and dynamic tourism website for Egypt developed from scratch with HTML, CSS, and JavaScript. The site showcases Egypt's cultural and historical landmarks with a modern, user‑friendly design. (Ongoing project.)
-  - 📂 [Personal Portfolio Website](https://github.com/markgobriel/markgobriel.github.io) – A personal portfolio website built using HTML and CSS to effectively showcase my skills, projects, and professional experience.
+- <b>front end</b>
+  - 👕 <a href="https://wearmotherland.com/">motherland</a> - my clothing brand. customized the shopify dawn theme with liquid, javascript, and css to improve ux and visuals. also built email automations to target abandoned carts.
+  - 🇪🇬 <a href="https://github.com/markgobriel/experience-egypt">experience egypt</a> - responsive tourism site built from scratch with html, css, and javascript. still improving it.
+  - 📂 <a href="https://github.com/markgobriel/markgobriel.github.io">personal portfolio website</a> - my first portfolio site built with html + css.
 
-- <b>coffee (java)</b>
-  - 🧩 [Othello Game](https://github.com/markgobriel/othello-game-207) – A Java-based implementation of the classic Othello game featuring multiple modes (human vs. human, human vs. computer, and human vs. random). Demonstrates object-oriented programming, game logic, and user interaction.
-  - 🎨 [Paint App Clone](https://github.com/markgobriel/paint-clone-207) – A Java-based clone of a paint application that integrates with the Ollama API to generate drawings from natural language prompts. This project showcases API integration and graphical user interface development.
+- <b>java</b>
+  - 🧩 <a href="https://github.com/markgobriel/othello-game-207">othello game</a> - classic othello with multiple modes, built in java. focuses on oop and game logic.
+  - 🎨 <a href="https://github.com/markgobriel/paint-clone-207">paint app clone</a> - paint app clone in java with ollama api integration for prompt to drawing.
 
-- <b>snake language (python)</b>
-  - 🗄️ [Treemap Visualizer](https://github.com/markgobriel/treemap-visualizer) – A Python application built with Pygame that visualizes hierarchical data structures as dynamic treemaps with real-time updates and interactive features.
-  - 📞 [MewbileTech Visualizer](https://github.com/markgobriel/mewbile-tech-csc148) – An application developed in Python using Pygame to visualize historical customer call data (geolocated in Toronto) on a real map. The tool enables filtering of calls and texts by customer and generates detailed billing reports for analysis.
-  - 🚕 [Ride Sharing Simulation](https://github.com/markgobriel/ride-sharing-csc148) – A simulation application built with Python that models a ridesharing service. It simulates the interactions of riders, drivers, a dispatcher, and a monitor on a city grid, allowing exploration of scheduling and matching algorithms in a controlled, virtual environment.
- 
-  
-*note: some of these repositories may be private. please feel free to reach out to me if you'd like to learn more about any of these projects.*
+- <b>python</b>
+  - 🗄️ <a href="https://github.com/markgobriel/treemap-visualizer">treemap visualizer</a> - pygame app that visualizes hierarchical data as interactive treemaps.
+  - 📞 <a href="https://github.com/markgobriel/mewbile-tech-csc148">mewbiletech visualizer</a> - pygame tool that maps toronto call data and generates billing reports.
+  - 🚕 <a href="https://github.com/markgobriel/ride-sharing-csc148">ride sharing simulation</a> - ridesharing simulation with drivers, riders, dispatcher logic, and a city grid model.
+
+<i>note: some repos may be private. feel free to reach out if you want to see more or ask about any project.</i>
 
 <h2> 🤳 let's connect</h2>
 
-[<img align="left" alt="Mark Gobriel | LinkedIn" width="32px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
-[<img align="left" alt="Mark Gobriel | Email" width="32px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" />][email]
-
-[email]: mailto:markgobriel@gmail.com
-[linkedin]: https://linkedin.com/in/markgobriel
+<a href="https://linkedin.com/in/markgobriel">
+  <img align="left" alt="mark gobriel | linkedin" width="32px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
+</a>
+<a href="mailto:markgobriel@gmail.com">
+  <img align="left" alt="mark gobriel | email" width="32px" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" />
+</a>
