@@ -9,8 +9,7 @@
 
 <h2>🎯 what i'm about</h2>
 <p>
-  i like taking ideas from 0 to shipped. i build the reliable stuff underneath and the polished interface on top. 
-  i’m a full-stack developer, but i genuinely enjoy ux/ui and front-end work because it lets me make things feel clean, smooth, and intentional.
+  i'm an aspiring full-stack developer who loves taking ideas from 0 to shipped, building reliable systems with a keen eye for clean, aesthetic interfaces.
 </p>
 
 <h2>💼 some projects i've worked on</h2>
