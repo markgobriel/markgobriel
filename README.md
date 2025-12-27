@@ -29,6 +29,7 @@
   - 🎨 <a href="https://github.com/markgobriel/paint-clone-207">paint app clone</a> - paint app clone in java with ollama api integration for prompt to drawing.
 
 - <b>python</b>
+  - 🔍 <a href="https://github.com/markgobriel/arc-migration">arc browser data exporter</a> - python script that exports arc browser spaces, folders, and tabs into an importable bookmarks html file for firefox or chromium-based browsers.
   - 🗄️ <a href="https://github.com/markgobriel/treemap-visualizer">treemap visualizer</a> - pygame app that visualizes hierarchical data as interactive treemaps.
   - 📞 <a href="https://github.com/markgobriel/mewbile-tech-csc148">mewbiletech visualizer</a> - pygame tool that maps toronto call data and generates billing reports.
   - 🚕 <a href="https://github.com/markgobriel/ride-sharing-csc148">ride sharing simulation</a> - ridesharing simulation with drivers, riders, dispatcher logic, and a city grid model.
